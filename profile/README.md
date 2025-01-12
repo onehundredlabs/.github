@@ -1,2 +1,2 @@
-A GitHub organization for OneHunderLabs projects.
+A GitHub organization for One Hunder Labs projects.
 
